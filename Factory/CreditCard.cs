@@ -5,10 +5,6 @@ public abstract class CreditCard:ICreditCard
     public string Number{get;set;}
     public decimal Limit{get;set;}
 
-    public abstract decimal GetDiscount();
-    
-
-     public abstract string GetCardType();
-
-    
+    public abstract decimal GetDiscount();  
+    public abstract string GetCardType(); 
 }

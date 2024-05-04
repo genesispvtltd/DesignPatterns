@@ -12,3 +12,4 @@ C:\Repos\DesignPatterns\Factory\obj\Debug\net8.0\refint\Factory.dll
 C:\Repos\DesignPatterns\Factory\obj\Debug\net8.0\Factory.pdb
 C:\Repos\DesignPatterns\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
 C:\Repos\DesignPatterns\Factory\obj\Debug\net8.0\ref\Factory.dll
+C:\Repos\DesignPatterns\Factory\obj\Debug\net8.0\Factory.sourcelink.json

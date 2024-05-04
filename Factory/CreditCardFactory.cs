@@ -8,9 +8,10 @@ public class CreditCardFactory
             {
                 cardDetails = new Platinum();
             }
+            else if(cardType == "Gold"){
+                cardDetails = new Gold();
+            }
             
             return cardDetails;
         }
-
-
 }

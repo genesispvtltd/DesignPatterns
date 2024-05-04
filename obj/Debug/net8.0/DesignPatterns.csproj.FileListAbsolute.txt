@@ -1,0 +1,5 @@
+C:\Repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+C:\Repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Repos\DesignPatterns\obj\Debug\net8.0\DesignPatterns.sourcelink.json
